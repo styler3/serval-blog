@@ -33,6 +33,6 @@ author = "Article Author"
   future, the old images must be migrated.
 - Articles before October 2017 were migrated using an automated script, so may
   have some errors.
-- During development, a test server is running [Here](https://comp2722.com).
+- During development, a test server is running [here](https://comp2772.com).
   When deploying to a different URL, update the `baseurl` property in
   `config.toml`
