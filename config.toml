@@ -1,0 +1,7 @@
+languageCode = "en-us"
+title = "Serval Project Blog"
+baseurl = "https://comp2772.com/"
+author = "Paul Gardner-Stephen"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License."
+paginate = 5
+theme = "serval"

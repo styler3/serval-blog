@@ -1,0 +1,3 @@
+[submodule "themes/serval"]
+	path = themes/serval
+	url = https://github.com/styler3/serval-hugo-theme.git
