@@ -1,0 +1,38 @@
++++
+date = "2011-11-20"
+title = "A Serval Project Progress Report"
+author = "Paul Gardner-Stephen"
++++
+
+<div class="post-body entry-content" id="post-body-6934788986709986014" itemprop="description articleBody">
+It is time to reflect on the past six months of Serval, and where we intend to head in the next six months.<br/>
+<br/>
+Six months ago we did not have a developer software offering, or even a single Android application that contained all the components for Serval. Today we do.<br/>
+<br/>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container"><tbody>
+<tr><td><a href="http://3.bp.blogspot.com/-9Ckic1engX4/Tsn05drlygI/AAAAAAAAAH4/fjwo20U56GE/s1600/16112011303.jpg"><img src="http://3.bp.blogspot.com/-9Ckic1engX4/Tsn05drlygI/AAAAAAAAAH4/fjwo20U56GE/s640/16112011303.jpg"/></a></td></tr>
+<tr><td class="tr-caption"><span class="Apple-style-span">On-site in South Africa after testing the Serval MeshMS store-and-forward SMS Service, delivering files and SMS messages up to 11,000km without infrastructure, or a continuously connected mesh.</span></td></tr>
+</tbody></table>Six months ago we did not have MeshMS (Mesh SMS service), interactive mapping,  Rhizome file distribution or store-and-forward SMS working.  Today, we do, and have even sent photos and SMS messages more then 10,000km between Australia and South Africa using mobile phones as the only infrastructure (more on this in a blog post and video in the next few days).  See <a href="http://servalpaul.blogspot.com/2011/11/demonstrating-serval-rhizome-store-and.html">this blog entry</a> for an infographic and <a href="http://www.youtube.com/watch?v=KDhJcwsnxf0">video</a> showing the sending and receiving of this first inter-continental mesh SMS message.<br/>
+<br/>
+<iframe allowfullscreen="allowFullScreen" frameborder="0" mozallowfullscreen="mozallowfullscreen" src="https://www.youtube.com/embed/FIk4g6ALu5I?feature=player_embedded" webkitallowfullscreen="webkitallowfullscreen"></iframe><span class="Apple-style-span">Demonstration of the Serval Rhizome Mesh-Based Infrastructure-Free File Distribution System, which is also the basis of the store-and-forward MeshMS/SMS service.</span><br/>
+Six months ago we had a number of legal issues to work through with regard to giving Flinders University an appropriate holding in the Serval Project's commercial arm, and the Shuttleworth Foundation had not yet come on board.  Today, we have just about finalised the details for these arrangements, with the final execution to occur in the coming weeks.  It will be fantastic to get this settled.<br/>
+<br/>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container"><tbody>
+<tr><td><img src="http://1.bp.blogspot.com/-YvBfKFwxeBc/TspEk40w9OI/AAAAAAAAAIA/wWYO1OIgG7U/s200/tedxpgs.jpg"/></td></tr>
+<tr><td class="tr-caption"><span class="Apple-style-span"><a href="http://tedxadelaide.com/blog/2011/10/21/speaking-dr-paul-gardner-stephen/">TEDxAdelaide Presentation November 2011.</a> (Video coming soon) <em>“The democratisation of online music is one example where the internet has eroded the monopoly power of music labels returning some portion of that power to the general public, without bankrupting those enterprises.” </em><span class="Apple-style-span">Paul will explore what is essentially a Napster equivalent that will compete with the mobile telecommunication giants. He believes that the advent of powerful, programmable, portable digital devices (e.g. smartphones) are a key factor in this eventual democratisation of mobile telecommunications.</span></span></td></tr>
+</tbody></table>Six months ago we were not greatly recognised internationally for our work on mesh communications.  Today, we are increasingly recognised as the leaders internationally in this space, which is a tremendous honour and also acts to spur us along to deliver on all the potential that mesh networking offers.  Recognition has included support by the Shuttleworth Foundation (South Africa), reaching the finals of the World Embedded Software Competition for University students (South Korea), strong engagement by and with the IEEE 802.11 standards process (USA and international), presenting at the Adelaide Festival of Ideas and TEDx Adelaide (Australia), and also reaching the finals of the Ashoka Foundation World Changer's Citizen Media competition (international) from a field of more than 400 entrants.  We are also seeing university and other partnership opportunities in Australia, Europe, the Middle East, Africa, the Americas, and Asia begin to take shape.  Now all we need is to be able to clone ourselves a few times over so that we can engage fully with the various opportunities!<br/>
+<br/>
+<a href="http://embed.changemakers.com/citizenmedia?feature=112014"><img src="http://1.bp.blogspot.com/-TDHWQ3KUxQI/TrsCULSnsOI/AAAAAAAAAHg/JHqN6xpoqZI/s1600/GOOGLE_badge_finalist.png"/></a><br/>
+<br/>
+Our plans for the next six months are to fill out the feature set that we have generated (voice, SMS, MMS, interactive mapping, file and software distribution), and add in the missing pieces, primarily the security and authenticity components that we have planned from the outset.  This will take us to mid-2012 when we hope to focus on maturing all of this into a general public release, as compared to the early-access developer software we have released to date.<br/>
+<br/>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container"><tbody>
+<tr><td><span class="Apple-style-span"><a href="http://www.blogger.com/goog_371134265"><img src="http://1.bp.blogspot.com/-FL3bAtYNy8c/TspFwGp3HXI/AAAAAAAAAII/cEmqYnhQXFs/s1600/afoipgs.jpg"/></a></span></td></tr>
+<tr><td class="tr-caption"><h1><span class="Apple-style-span">Adelaide Festival of Ideas, 2011, <a href="http://adelaidefestivalofideas.com.au/jim-bettison-oration-inaction-will-cost-us-our-future/">JIM BETTISON ORATION: KICKING THE INFRASTRUCTURE HABIT</a>: <a href="http://radio.adelaide.edu.au/adelaidefestivalofideas2011/audio/16_habit.mp3">[listen to MP3]</a> <span class="Apple-style-span"> "Modern communications systems use extensive and expensive infrastructure to deliver services we could only dream of a few decades ago. This works for those who enjoy peace and sufficient wealth, but fails to reach the last billion people in poorer countries, as well as those in remote, emergency or disaster situations. Now modern mobile phones have the potential to communicate directly, to form networks without reliance on any infrastructure. The Serval Project based at Flinders University is turning this dream into a reality. It is working to make communications available to everyone, anywhere, any time especially to those who need it most."</span></span></h1></td></tr>
+</tbody></table>We are also looking seriously about getting advanced mesh support built into one or more models of mobile phone to offer energy efficiency and/or range improvements over the basic service.<br/>
+<br/>
+Simultaneously, we are beginning to explore appropriate trials of the technology that if they go ahead will gain us valuable feedback, and refine the software to maximise it's utility for the general community, including in South Africa (assisting in the distribution of educational material without cost or dependence on cellular or school IT infrastructure), North America and Australia.<br/>
+<br/>
+So all in all, the next six months should keep us fairly busy.
+<div></div>
+</div>

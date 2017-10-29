@@ -1,0 +1,44 @@
++++
+date = "2011-11-09"
+title = "Serval is in finals for the Ashoka Foundation Change Makers Citizen Media Competition!"
+author = "Paul Gardner-Stephen"
++++
+
+<div class="post-body entry-content" id="post-body-1842628713022433077" itemprop="description articleBody">
+It seems that this last month has been one of the Serval Project gaining international recognition as leading the mesh communications space.  First some thoughts on that, and then some of the exciting things that have been happening.<br/>
+<br/>
+This is incredibly gratifying and humbling, and I think also says something about the value of the open development and free software model, and also about the value of pragmatism and choosing the right applications and approach.  Ultimately it must spur us onto continuing to advance not only the technology, but also its use.<br/>
+<br/>
+We are quite aware that there are other more experienced players in this space, who have in some cases invested many millions of dollars into mesh networking.  However, the closed-handed commercial approach that many such group have taken means that many innovations in the mesh networking space do not get well known, and that people feel isolated from what is happening in this space -- which is quite counterproductive, since mesh is by it's nature a word-of-mouth and peer-to-peer technology, and that character bleeds over into how it is best used, valued, evangelised and adopted.<br/>
+<br/>
+We are also quite aware that there have been significant efforts put into making robust mesh routing protocols and standards, for example 802.11s, and yet in a short space of time we seem to be accelerating our traction at a much faster rate.  I think that there are a few interrelated causes for this.  First, we are extremely pragmatic in our approach, and this is partly enabled by us driving a vision forward, rather than seeking consensus to generate a moderated output. <br/>
+<br/>
+The unfortunate reality for mesh networking is that it is still in such infancy that the various components have to be well matched to perform well, and thus the traditional compromise approach to standards generation, without an working example to inform the standard, is prone to produce a sub-optimal result, and take a very long time to produce. <br/>
+<br/>
+This is also related to the lack of clear commercial application (or more specifically, of commercial return) of mesh networking in the eyes of many companies.  This is because when viewed as a traditional network, mesh networks are very poor cousins; they have poor reliability, poor bandwidth, poor quality of service, limited range and so on. All these make it very difficult to layer existing commercial models over a mesh network.  For example, adapting Google's advertising model onto a mesh network has trouble getting the advertisements over the mesh to each device, let alone the search data. <br/>
+<br/>
+It takes a fresh approach to mesh networking to understand where the substantial commercial opportunities are hiding.  This requires gaining an understanding of the strengths of mesh networks, rather than their weaknesses.  The natural broadcast nature of wireless networks actually works well for broad dissemination of data.  The ability of these networks to operate without supporting infrastructure allows the provision of services when not ordinarily possible.<br/>
+<br/>
+These services do not need to be data-poor services, either.  Serval has already created a prototype mapping application that could easily support navigation, geotagged advertising by businesses, crowd sourcing of points of interest and a variety of other features -- and would continue to be available when infrastructure is not available. <br/>
+<br/>
+In this kind of setting, the limitations of mesh networking become strengths. The limited range of mesh networks means that locally relevant data is available where it is relevant, and doesn't flood the rest of the world or distant parts of the mesh.  The broadcast nature of wireless communications allows multiple receivers to receive these locally relevant data, whether it be advertisements, maps, communications between nearby friends or otherwise.  Also, by focussing on hop-by-hop dissemination of data, the traditional bandwidth degradation of mesh networks can be significantly avoided -- at the extreme it is single-hop communications which can be performed at the order of 100mbit between nearby WiFi enabled devices, which is way faster than my home ADSL internet connection.<br/>
+<br/>
+But back to some of the recent successes we have had in our work and leadership being recognised, including the headline of this post:<br/>
+<br/>
+The Serval Project is one of 11 finalists from a field of around 500 entries in the <a href="http://www.changemakers.com/citizenmedia/finalists#tab-section">Ashoka Foundation's Change Maker Citizen Media competition</a>.  This is tremendous recognition of the value of our work in the citizen empowerment space, and we are delighted to engage with this community, and with the other amazing finalists.  We'd also love you to vote for us if you think we should be one of the winners.  You can see the other finalists and vote using the links below:<br/>
+<div><a href="http://embed.changemakers.com/citizenmedia?feature=112014"><img src="http://1.bp.blogspot.com/-TDHWQ3KUxQI/TrsCULSnsOI/AAAAAAAAAHg/JHqN6xpoqZI/s1600/GOOGLE_badge_finalist.png"/><span class="Apple-style-span"><img src="http://3.bp.blogspot.com/-qPTZk4G-OJY/TrsCUy0-BaI/AAAAAAAAAHk/0PU0CJORCdE/s1600/GOOGLE_badge_vote.png"/></span></a><br/>
+<br/>
+</div><div>We have also made it to the finals of the <a href="http://eswcontest.com/bbs/board.php?tbl=eng_notice&amp;mode=VIEW&amp;num=17&amp;chr=%2Fglobal_eng&amp;category&amp;findType&amp;findWord&amp;sort1&amp;sort2&amp;page=1">World Embedded Software Competition</a> in Korea, for the second year running.</div><br/>
+Meanwhile, we have begun to engage with the IEEE 802.11 standards process, with Romana in Atlanta at their meeting as I type.  It continues to amaze me the generally positive reception and voice that we are granted at events such as this, and we are hopeful that we can effect positive change in the standards to better support mesh networking.<br/>
+<br/>
+We are also beginning to form partnerships with Universities, companies, not-for-profit and other entities, not just in Australia, but around the world.  More on some of those as they mature, but it is exciting for me to see our efforts multiplied as we gain partners.  As I have previously mentioned, we are keen to not only create resilient software, but produce it in a resilient manner, and that means with multiple teams in multiple countries around the world.  While this process has begun, we would love to expand this even further, so if you are interested, drop me a line.<br/>
+<br/>
+Closer to home, but from my perspective very satisfying is that two of our students won their sections of the departmental end of term student expo.  Congratulations to both Swapna Palaniswamy and Corey Wallis for your great work. Swapna's work has also resulted in an upcoming publication at the <a href="http://www.amrita.edu/acwr2011/index.html">International Conference on Wireless Technology for Humanitarian Relief</a> later this year, which is an unusual achievement for a student in her course.  Corey has similarly had a presentation based on his work accepted  at <a href="http://linux.conf.au/schedule/126/view_talk?day=wednesday">Linux Conference Australia</a> in January (we also have <a href="http://linux.conf.au/schedule/123/view_talk?day=wednesday">another talk at LCA</a> on our Rhizome mesh file distribution protocol).<br/>
+<br/>
+So it is a tremendously exciting time, and we are incredibly grateful to the <a href="http://shuttleworthfoundation.org/">Shuttleworth Foundation</a>, <a href="http://flinders.edu.au/">Flinders University</a>, <a href="http://nlnet.nl/foundation/">NLnet</a> and the <a href="http://awesomefoundation.org/">Awesome Foundation</a> for their enabling support of our activities.<br/>
+<br/>
+So now it is back to driving the technology side of our activities so that we can deliver on the promise.<br/>
+<br/>
+We have two primary areas of activity on this front at present.  First, we are working to consolidate the existing software to make it generally more usable and stable.  Second, we are working on incorporating the Rhizome file and messaging system so that we can provide what we think will be a very powerful mesh messaging service, that will even make possible the delivery of messages when there is no path immediately available through the mesh, and for the sender to receive confirmation when the message has been received.  But more on that when we have something concrete to show.
+<div></div>
+</div>
